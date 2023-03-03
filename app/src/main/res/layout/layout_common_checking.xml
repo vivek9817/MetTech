@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.AppCompatCheckBox
+        android:id="@+id/CheckId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Checking Header"
+        android:padding="@dimen/_30sdp"
+        android:textStyle="normal"
+        android:layout_marginStart="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_110sdp"
+        android:layout_gravity="center" />
+
+</LinearLayout>

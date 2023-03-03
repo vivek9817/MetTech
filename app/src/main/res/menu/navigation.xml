@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Information" />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/details"
+        android:icon="@drawable/ic_baseline_indeterminate_details_24"
+        android:title="Details" />
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Setting" />
+
+    <item
+        android:id="@+id/checking"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Checking" />
+</menu>

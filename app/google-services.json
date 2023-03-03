@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13002679762",
+    "project_id": "techapp-4bdb9",
+    "storage_bucket": "techapp-4bdb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13002679762:android:5155e4739f05f16952540b",
+        "android_client_info": {
+          "package_name": "com.example.mittechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13002679762-dq8o4ek8cmaf3us098gn8ogpdrmjq9ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7IOhBVI6RoM4cOVcTwkyImSjE-mS9YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13002679762-dq8o4ek8cmaf3us098gn8ogpdrmjq9ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

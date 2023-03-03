@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:id="@+id/llCommonHeader"
+    android:orientation="vertical"
+    android:padding="@dimen/_10sdp"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:elevation="@dimen/_15sdp"
+            android:layout_alignParentLeft="true"
+            android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/ibBack"
+                android:layout_width="@dimen/_30sdp"
+                android:background="@drawable/arrow_back"
+                android:layout_height="@dimen/_30sdp">
+            </androidx.appcompat.widget.AppCompatImageButton>
+        </FrameLayout>
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvHeaderText"
+            android:layout_width="wrap_content"
+            style="@style/LargeTextWhite"
+            android:elevation="@dimen/_15sdp"
+            android:layout_centerInParent="true"
+            android:layout_height="wrap_content">
+
+        </androidx.appcompat.widget.AppCompatTextView>
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:elevation="@dimen/_15sdp"
+            android:layout_alignParentRight="true"
+            android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/ibHome"
+                android:layout_width="@dimen/_30sdp"
+                android:background="@drawable/ic_baseline_add_alert_24"
+                android:layout_height="@dimen/_30sdp">
+            </androidx.appcompat.widget.AppCompatImageButton>
+        </FrameLayout>
+    </RelativeLayout>
+
+</LinearLayout>

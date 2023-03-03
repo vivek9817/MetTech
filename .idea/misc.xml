@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MitTechApp/app/src/main/res/drawable/arrow_back.xml" value="0.175" />
+        <entry key="..\:/MitTechApp/app/src/main/res/drawable/home.xml" value="0.175" />
+        <entry key="..\:/MitTechApp/app/src/main/res/drawable/ic_baseline_add_alert_24.xml" value="0.175" />
+        <entry key="..\:/MitTechApp/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.175" />
+        <entry key="..\:/MitTechApp/app/src/main/res/drawable/leftsub.xml" value="0.175" />
+        <entry key="..\:/MitTechApp/app/src/main/res/drawable/plainedittext.xml" value="0.175" />
+        <entry key="..\:/MitTechApp/app/src/main/res/drawable/rightadd.xml" value="0.175" />
+        <entry key="..\:/MitTechApp/app/src/main/res/drawable/sanatizer.xml" value="0.675" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/activity_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/common_alert_rec_data.xml" value="0.19010416666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/common_hedder.xml" value="0.19010416666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/fragment_checking.xml" value="0.20416666666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/fragment_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/fragment_information.xml" value="0.16" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/fragment_setting.xml" value="0.20416666666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/layout_common_checking.xml" value="0.19010416666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/layout/layout_quantity.xml" value="0.20416666666666666" />
+        <entry key="..\:/MitTechApp/app/src/main/res/menu/navigation.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
